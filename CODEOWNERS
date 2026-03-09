@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @prapti-r
+/src/backend/database.py      @prapti-r
+/src/backend/routers/auth.py  @prapti-r
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @prapti-r
